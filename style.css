@@ -1,0 +1,33 @@
+img {
+  height: 150px;
+}
+
+.description {
+  font-size: 20px;
+}
+
+#cook-time {
+  font-weight: bold;
+}
+
+/* parent element child element
+list elements in class "ingredients" */
+.ingredients li {
+  list-style: square;
+}
+
+/* p with class = 'time' */
+p.time {
+  color: gray;
+}
+
+.external-link {
+  color: SeaGreen;
+}
+
+h1,
+h2,
+p,
+li {
+  font-family: Helvetica;
+}
